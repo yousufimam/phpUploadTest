@@ -1,0 +1,15 @@
+{
+  "name": "greenboard-workspace",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop-example": "yarn workspace example develop",
+    "build-example": "yarn workspace example build"
+  },
+  "workspaces": [
+    "greenboard",
+    "example"
+  ]
+}
