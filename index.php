@@ -1,3 +1,3 @@
 <?php
-echo "hello world yousuf imam2";
+echo "hello world yousuf imam";
 ?>
