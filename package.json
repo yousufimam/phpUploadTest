@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "develop-example": "yarn workspace example develop",
-    "build-example": "yarn workspace example build"
+    "build-example": "yarn workspace examp`le build"
   },
   "workspaces": [
     "greenboard",
